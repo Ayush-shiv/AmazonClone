@@ -32,3 +32,20 @@
 .border:hover{
     border: 1.5px solid white;
 }
+
+.add-first {
+    margin-left: 15px;
+    color: #cccccc;
+    font-size: 0.85rem;
+  }
+  
+  .add-second {
+    margin-left: 3px;
+    color: white;
+    font-size: 1rem;
+  }
+  
+  .add-third{
+    display: flex;
+    align-items: center;
+  }
