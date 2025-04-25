@@ -109,4 +109,27 @@ span {
   font-weight: 700;
 }
 
-  
+.panel {
+  height: 40px;
+  background-color: #222f2d;
+  color: white;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px 0 10px;
+  display: flex;
+}
+
+.panel-options p {
+  display: inline;
+}
+
+.panel-options {
+  width: 70%;
+  margin-left: 15px;
+  font-size: 0.85rem;
+}
+
+.panel-deals {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
