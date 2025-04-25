@@ -133,3 +133,13 @@ span {
   font-size: 0.9rem;
   font-weight: 700;
 }
+
+/* hero section */
+.hero-section {
+  background-image: url("images/hero_image.jpg");
+  background-size: cover;
+  height: 350px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
